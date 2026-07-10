@@ -40,7 +40,7 @@ task2-repo/
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/task2-repo.git
+   git clone https://github.com/choudharyanushka2323-sudo/task2-repo.git
    cd task2-repo
    ```
 2. Compile the Java file
