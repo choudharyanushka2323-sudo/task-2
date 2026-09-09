@@ -72,7 +72,7 @@ This task helped strengthen understanding of:
 - Basic data storage and retrieval using arrays/collections
 
 ## 👤 Author
-Anushka choudhary 
+Anushka  choudhary 
 
 Internship Task 2 — Java Student Management Project
 
