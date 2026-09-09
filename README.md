@@ -1,4 +1,4 @@
-# Student Management System (Java)
+## Student Management System (Java)
 
 ## 📌 Internship Task 2
 
