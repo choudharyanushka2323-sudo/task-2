@@ -4,7 +4,7 @@
 
 A simple console-based **Student Management System** built in Java to demonstrate the use of **loops** and basic control structures for managing student records.
 
-## 📖 Description
+## 📖Description
 
 This program allows users to manage a small set of student records through a menu-driven console interface. It uses loops (`for`, `while`, `do-while`) to:
 
